@@ -284,34 +284,31 @@ textarea {
 
 .head {
 
-  background-color: #F012BE;
-  width: 80%;
-  margin: auto;
+
+  width: 40%;
+  margin:auto;
+  top: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: auto;
+  border: 9px solid  #111111;
 
 }
 h1 {
-font-size: 45px;
+font-size: 80px;
 text-align: center;
-text-transform: uppercase;
-color: white;
+color: #111111;
+margin-top: 100px;
+padding: 1em;
+justify-content: center;
 
 }
-
-
-
-li{
-
-  text-align: center;
-  text-decoration: none;
-  list-style: none;
-  font-size: 24px;
-  line-height: 40px;
-}
-
 
 body {
 
-  background-color: #DDDDDD;
+  background-color: #0099DE;
+  height: 100%;
 
 
 }
